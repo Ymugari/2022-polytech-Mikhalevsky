@@ -1,3 +1,0 @@
-/home/ymugari/2022-polytech-Mikhalevsky/03_cpp/intro/CMakeFiles/Name.dir
-/home/ymugari/2022-polytech-Mikhalevsky/03_cpp/intro/CMakeFiles/edit_cache.dir
-/home/ymugari/2022-polytech-Mikhalevsky/03_cpp/intro/CMakeFiles/rebuild_cache.dir
