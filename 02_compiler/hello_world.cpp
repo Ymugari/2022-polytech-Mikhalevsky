@@ -1,5 +1,6 @@
-#include "func.h"
 
+#include "func.h"
+using namespace std;
 int main()
 {
     print();
