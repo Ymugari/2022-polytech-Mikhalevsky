@@ -39,7 +39,7 @@ int main()
     const int arr_size = sizeof(arr) / sizeof(arr[0]);
     int x = 120;
     int result = linear_search(arr, arr_size, x);
-    int result2 = binary_search(arr, arr_size, x); 
-    std::cout << result <<" "<< result2 << std::endl;
+    int result2 = binary_search(arr, arr_size, x);
+    std::cout << result << " " << result2 << std::endl;
     return 0;
 } 
