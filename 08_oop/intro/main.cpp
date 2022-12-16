@@ -1,10 +1,11 @@
-#include "Strings.h"
+
+#include "String.h"
 
 int main() 
 {
-  String a = "post sdal";
+  String a = "Hello";
   
-  String b = " post prinyal";
+  String b = " World!";
   String c = a + b;
   std::cout << c << '\n' << c.get_length() << std::endl;
   return 0;

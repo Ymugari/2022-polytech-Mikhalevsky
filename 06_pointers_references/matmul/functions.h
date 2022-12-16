@@ -15,7 +15,7 @@ void fillArr(int** arr, int m, int n)
 {
     for(int i = 0; i < m; i++)
     {
-        std::cout << i << " row" << std::endl;
+        std::cout << i+1 << " row" << std::endl;
         for(int j = 0; j < n; j++)
         {
             std::cin >> arr[i][j];
